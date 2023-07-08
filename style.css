@@ -173,8 +173,15 @@ footer {
   padding: 120px 150px;
   margin-top: 50px;
 }
-.footer-clm {
-  width: 50%;
+.footer-clm1 {
+  width: 60%;
+}
+.footer-clm1 > p {
+  text-align: left;
+  line-height: 30px;
+}
+.footer-clm2 {
+  width: 40%;
 }
 .social-links {
   margin-top: 25px;
@@ -194,5 +201,5 @@ textarea {
   background-color: #fff;
   border: none;
   outline: none;
-  width: 90%;
+  width: 100%;
 }
